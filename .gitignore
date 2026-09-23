@@ -11,6 +11,7 @@ data/processed/
 
 # Large nnU-Net inference assets
 data/nnunet_inference/
+data/dummy/
 
 # Large model checkpoints
 models/**/*.pth
