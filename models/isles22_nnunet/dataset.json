@@ -1,0 +1,13 @@
+{
+  "channel_names": {
+    "0": "DWI",
+    "1": "ADC",
+    "2": "FLAIR"
+  },
+  "labels": {
+    "background": 0,
+    "infarct": 1
+  },
+  "numTraining": 220,
+  "file_ending": ".nii.gz"
+}
